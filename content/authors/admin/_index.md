@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.Sc in Mechatronics and Information Technology
     institution: Technical University of Munich
-    year: now
+    year: 2021
   - course: B.Eng. in Mechnical Engineering
     institution: Tongji University
     year: 2018
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Yinqiang Zhang is a second-year Master student at Technical University of Munich. Now his major is mechatronics and information technology. Before this, he got my B.E. degree from School of mechanical engineering, Tongji University. His research interest is machine learning, visual tracking, and medical image processing.
+Yinqiang Zhang is a second-year Master student at Technical University of Munich. Now his major is mechatronics and information technology. Before this, he got the bachelor degree of engineering from School of mechanical engineering, Tongji University. His research interests are machine learning, visual tracking, and medical image processing.

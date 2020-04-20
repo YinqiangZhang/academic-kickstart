@@ -49,6 +49,21 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Intership in BOSCH R & D Center Headquarters"
+  company = "ETAS GmbH"
+  company_url = "https://www.etas.com/en/company/etas_china_contact.php"
+  location = "Shanghai"
+  date_start = "2017-11-01"
+  date_end = "2018-03-01"
+  description = """
+  Responsibilities include:
+  
+  * Responsible for customer outreach and support.
+  * Designed and completed of interactive program (Python) to parse A2L le.
+  * Tested rapid prototype module for clients, e.g. ES910 and ES900.
+  """
+
+[[experience]]
   title = "Developing Robust Aerial Tracking Algorithms"
   company = "Vision4Robotics Group"
   company_url = "https://vision4robotics.github.io/"

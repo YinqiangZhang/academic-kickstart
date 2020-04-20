@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Robust Scalable Part-Based Visual Tracking for UAV with Background-Aware Correlation Filter"
-authors: "Changhong Fu, Yinqiang Zhang, Ran Duan, Zongwu Xie"
+authors: ["Changhong Fu, Yinqiang Zhang, Ran Duan, Zongwu Xie"]
 date: 2018-10
 doi: "https://doi.org/10.1109/ROBIO.2018.8665251"
 
@@ -42,14 +42,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code: https://github.com/vision4robotics/SPBACF-Tracker
+url_pdf: "robio_2018_spbacf.pdf"
+url_code: "https://github.com/vision4robotics/SPBACF-Tracker"
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: https://www.youtube.com/watch?v=qm9StK3jqN4&feature=youtu.be
+url_video: "https://www.youtube.com/watch?v=qm9StK3jqN4&feature=youtu.be"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

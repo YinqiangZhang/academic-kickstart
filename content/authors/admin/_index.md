@@ -22,16 +22,17 @@ bio: My research interests include machine learning, aerial robotics, visual tra
 
 interests:
 - Artificial Intelligence
+- Aerial Robotics
 - Visual Tracking 
 - Medical Image Processing
 
 education:
   courses:
   - course: M.Sc in Mechatronics and Information Technology
-    institution: Technical University of Munich
+    institution: Technical University of Munich, Munich, Germany
     year: 2021
   - course: B.Eng. in Mechnical Engineering
-    institution: Tongji University
+    institution: Tongji University, Shanghai, China
     year: 2018
 
 # Social/Academic Networking
@@ -64,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Yinqiang Zhang is a second-year Master student at Technical University of Munich. Now his major is mechatronics and information technology. Before this, he got the bachelor degree of engineering from School of mechanical engineering, Tongji University. His research interests are machine learning, visual tracking, and medical image processing.
+Yinqiang Zhang is a second-year Master student at Technical University of Munich, Germany. Now his major is mechatronics and information technology. Before this, he got the bachelor degree of engineering from School of mechanical engineering, Tongji University, Shanghai. His research interests are machine learning, visual tracking, and medical image processing.

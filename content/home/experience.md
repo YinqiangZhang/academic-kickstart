@@ -34,6 +34,21 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "ZHEJIANG Lab Cup AI International Competition"
+  company = "ZHEJIANG LAB"
+  company_url = "http://www.zhejianglab.com/"
+  location = "Hangzhou"
+  date_start = "2019-08-01"
+  date_end = "2019-10-01"
+  description = """
+  Responsibilities include:
+  
+  * Designed a multiple object tracking method with a detection-tracking-reidentication framework.
+  * Combined short and long cues using features from tracking and data association, respectively.
+  * Incorporated online update mechanism to attune appearance model of Siamese network and implemented MOT framework.
+  """
+
+[[experience]]
   title = "CEO"
   company = "GenCoin"
   company_url = ""

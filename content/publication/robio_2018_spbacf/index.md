@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Robust Scalable Part-Based Visual Tracking for UAV with Background-Aware Correlation Filter"
-authors: ["Changhong Fu, Yinqiang Zhang, Ran Duan, Zongwu Xie"]
-date: "Oct 2018"
+authors: ["Changhong Fu", "Yinqiang Zhang", "Ran Duan", "Zongwu Xie"]
+date: "Oct 10, 2018"
 doi: "https://doi.org/10.1109/ROBIO.2018.8665251"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "Oct 2018"
+publishDate: "Oct 10, 2018"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

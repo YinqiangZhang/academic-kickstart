@@ -17,6 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Medical Image Processing and Computer Assisted Segmentation"
+  company = "Technical University of Munich"
+  company_url = ""
+  location = "Munich"
+  date_start = "2019-12-01"
+  date_end = "2020-06-01"
+  description = """
+  Responsibilities include:
+
+  * Proposed a novel segmentation by registration method, extracted knee model from CT volume.
+  * Implemented segmentation with MATLAB and the SG-Lib developed by MiMed.
+  * Assisted in the designs and experiments of bone segmentation methods.
+  """
+
 [[experience]]
   title = "CEO"
   company = "GenCoin"

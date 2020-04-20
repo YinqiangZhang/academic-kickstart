@@ -3,11 +3,11 @@
 
 title: "Robust Scalable Part-Based Visual Tracking for UAV with Background-Aware Correlation Filter"
 authors: ["Changhong Fu, Yinqiang Zhang, Ran Duan, Zongwu Xie"]
-date: 2018-10
+date: "Oct 2018"
 doi: "https://doi.org/10.1109/ROBIO.2018.8665251"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-10
+publishDate: "Oct 2018"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -56,7 +56,7 @@ url_video: "https://www.youtube.com/watch?v=qm9StK3jqN4&feature=youtu.be"
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Right"
   preview_only: false
 
 # Associated Projects (optional).

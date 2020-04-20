@@ -4,7 +4,7 @@
 title: "Keyfilter-Aware Real-Time UAV Object Tracking"
 authors: ["Yiming Li", "Changhong Fu", "Ziyuan Huang", "Yinqiang Zhang", "Jia Pan"]
 date: 2020-03-11
-doi: "https://arxiv.org/abs/2003.05218"
+doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-03-11

@@ -17,36 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[experience]]
-  title = "Medical Image Processing and Computer Assisted Segmentation"
-  company = "Technical University of Munich"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "Munich, Germany"
-  date_start = "2019-12"
-  date_end = "2020-06"
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
   Responsibilities include:
-
-  * Proposed a novel segmentation by registration method, extracted knee model from CT volume.
-  * Implemented segmentation with MATLAB and the SG-Lib developed by MiMed.
-  * Assisted in the designs and experiments of bone segmentation methods.
+  
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
-#[[experience]]
-#  title = "ZHEJIANG Lab Cup AI International Competition"
-#  company = "ZHEJIANG LAB"
-#  company_url = "http://www.zhejianglab.com/"
-#  location = "Hangzhou, China"
-#  date_start = "2019-08"
-#  date_end = "2019-10"
-#  description = """
-#  Responsibilities include:
-#  
-#  * Designed a multiple object tracking method with a detection-tracking-reidentication framework.
-#  * Combined short and long cues using features from tracking and data association, respectively.
-#  * Incorporated online update mechanism to attune appearance model of Siamese network and implemented MOT framework.
-#  """
-
+[[experience]]
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

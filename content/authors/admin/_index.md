@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Yinqiang Zhang is a second-year Master student at Technical University of Munich, Germany. Now his major is mechatronics and information technology. Before this, he got the bachelor degree of engineering from School of mechanical engineering, Tongji University, Shanghai. His research interests are machine learning, visual tracking, and medical image processing.
+Yinqiang Zhang is a second-year Master student at the Technical University of Munich, Germany. Now his major is mechatronics and information technology. Before this, he got the bachelor degree of engineering from the school of mechanical engineering, Tongji University, Shanghai. His research interests are machine learning, visual tracking, and medical image processing.

@@ -4,7 +4,7 @@
 title: "Intermittent Contextual Learning for Keyfilter-Aware UAV Object Tracking Using Deep Convolutional Feature"
 authors: ["Yiming Li", "Changhong Fu", "Ziyuan Huang", "Yinqiang Zhang", "Jia Pan"]
 date: 2020-04-06
-doi: ""
+doi: "https://doi.org/10.1109/TMM.2020.2990064"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-04-06
